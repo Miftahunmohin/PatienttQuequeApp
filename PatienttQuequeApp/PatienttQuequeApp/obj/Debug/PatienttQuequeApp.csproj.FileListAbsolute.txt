@@ -1,0 +1,9 @@
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\bin\Debug\PatienttQuequeApp.exe.config
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\bin\Debug\PatienttQuequeApp.exe
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\bin\Debug\PatienttQuequeApp.pdb
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.csprojResolveAssemblyReference.cache
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.Form1.resources
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.Properties.Resources.resources
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.csproj.GenerateResource.Cache
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.exe
+G:\My Made Program\PatienttQuequeApp\PatienttQuequeApp\obj\Debug\PatienttQuequeApp.pdb
